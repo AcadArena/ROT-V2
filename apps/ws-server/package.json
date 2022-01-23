@@ -1,10 +1,10 @@
 {
   "name": "ws-server",
   "version": "0.0.0",
-  "main": "build/index.js",
+  "main": "dist/index.js",
   "private": true,
   "scripts": {
-    "dev": "node dist/index.js PORT=3002",
+    "dev": "node dist/index.js PORT=4000",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
